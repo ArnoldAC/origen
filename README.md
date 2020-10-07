@@ -1,2 +1,2 @@
 Proyecto en c#
-author:Arnold Aguilar
+author:Arnold AguilarProyecto en c#
